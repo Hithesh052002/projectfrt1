@@ -6,6 +6,7 @@ This is a web based application developed for health based website and using ai 
 
 
 **Project Link** - https://victorious-dune-0a302c610.5.azurestaticapps.net/
+
 **Project demo video Link** - https://youtu.be/UXKPaC-8J0s
 
 
@@ -37,7 +38,7 @@ This is a web based application developed for health based website and using ai 
 
 ## Tech Stack 
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Azure Portal
 - HTML
 - CSS
 - Bootstrap
